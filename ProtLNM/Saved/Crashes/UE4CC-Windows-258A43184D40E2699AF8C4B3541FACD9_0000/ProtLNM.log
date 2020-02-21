@@ -1,0 +1,1605 @@
+﻿Log file open, 09/29/19 20:03:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProtLNM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.772399
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.29-23.03.56:456][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.29-23.03.56:456][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.29-23.03.56:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:457][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-23.03.56:511][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-23.03.56:512][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-23.03.56:524][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-23.03.56:524][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.29-23.03.56:866][  0]LogHAL: Display: Platform has ~ 8 GB [8552325120 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.29-23.03.56:866][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.29-23.03.56:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-23.03.56:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-23.03.56:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-23.03.56:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-23.03.56:867][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-23.03.56:868][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-23.03.56:868][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-23.03.56:868][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-23.03.56:868][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-23.03.56:868][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.29-23.03.56:935][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.29-23.03.56:935][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.29-23.03.56:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Config/Windows/Engine.ini]
+[2019.09.29-23.03.56:990][  0]LogInit: Computer: DESKTOP-5LSHH6H
+[2019.09.29-23.03.56:990][  0]LogInit: User: Nathan
+[2019.09.29-23.03.56:991][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.29-23.03.56:991][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.29-23.03.57:006][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.09.29-23.03.57:009][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.29-23.03.57:009][  0]LogMemory: Process Physical Memory: 100.04 MB used, 100.05 MB peak
+[2019.09.29-23.03.57:009][  0]LogMemory: Process Virtual Memory: 88.05 MB used, 88.05 MB peak
+[2019.09.29-23.03.57:009][  0]LogMemory: Physical Memory: 7080.47 MB used,  1075.66 MB free, 8156.13 MB total
+[2019.09.29-23.03.57:009][  0]LogMemory: Virtual Memory: 4643.43 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.09.29-23.03.57:246][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.29-23.03.58:962][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.09.29-23.03.58:962][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.09.29-23.04.00:286][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.29-23.04.01:878][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.29-23.04.01:878][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.29-23.04.12:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.29-23.04.12:117][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.29-23.04.12:464][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.09.29-23.04.12:464][  0]LogD3D11RHI:       4018/0/4078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.29-23.04.12:466][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.29-23.04.12:466][  0]LogD3D11RHI:       0/0/4078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.29-23.04.12:466][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.29-23.04.12:506][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.29-23.04.12:507][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.29-23.04.12:531][  0]LogWindows: EnumDisplayDevices:
+[2019.09.29-23.04.12:531][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.09.29-23.04.12:531][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.09.29-23.04.12:531][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.09.29-23.04.12:532][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.09.29-23.04.12:532][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.29-23.04.12:532][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.09.29-23.04.12:532][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.09.29-23.04.12:532][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.09.29-23.04.12:532][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.09.29-23.04.12:705][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.29-23.04.13:154][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.29-23.04.15:643][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.29-23.04.15:715][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.29-23.04.15:747][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.29-23.04.15:764][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.29-23.04.15:861][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.29-23.04.15:911][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.29-23.04.15:923][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.29-23.04.15:961][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.29-23.04.15:968][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.29-23.04.16:104][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.29-23.04.16:105][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.29-23.04.16:117][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.29-23.04.16:375][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.29-23.04.16:375][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.29-23.04.16:411][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.29-23.04.16:411][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.29-23.04.16:451][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.29-23.04.16:570][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.29-23.04.16:596][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.29-23.04.16:649][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.29-23.04.16:694][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.29-23.04.16:694][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.29-23.04.16:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.29-23.04.16:976][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.29-23.04.18:009][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Intermediate/Shaders/WorkingDirectory/2016/).
+[2019.09.29-23.04.18:009][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nathan/AppData/Local/Temp/UnrealShaderWorkingDir/63569C0F4F0EEA81A187AD80614043BF/'.
+[2019.09.29-23.04.18:579][  0]LogXGEController: Cleaning working directory: C:/Users/Nathan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.29-23.04.18:605][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.29-23.04.18:606][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.29-23.04.18:606][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.29-23.05.12:587][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.29-23.05.13:463][  0]LogDerivedDataCache: Loaded boot cache 0.85s 73MB C:/Users/Nathan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.29-23.05.13:463][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nathan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.29-23.05.13:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.29-23.05.13:463][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.29-23.05.13:463][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-23.05.13:463][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.29-23.05.14:466][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.29-23.05.14:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-23.05.14:466][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.29-23.05.14:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.29-23.05.14:521][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.29-23.05.14:521][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.29-23.05.14:769][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.29-23.05.14:929][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.29-23.05.15:079][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.29-23.05.19:874][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2019.09.29-23.05.34:889][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-23.05.42:312][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.29-23.05.42:312][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.29-23.05.42:312][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.29-23.05.42:312][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.29-23.05.42:312][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.29-23.05.43:553][  0]LogNetVersion: ProtLNM 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 277224130)
+[2019.09.29-23.05.53:549][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.612772 seconds
+[2019.09.29-23.05.53:656][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.29-23.05.53:656][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.29-23.05.53:656][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.29-23.06.53:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.29-23.06.53:307][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.29-23.06.54:666][  0]SourceControl: Source control is disabled
+[2019.09.29-23.06.54:796][  0]SourceControl: Source control is disabled
+[2019.09.29-23.06.54:937][  0]SourceControl: Source control is disabled
+[2019.09.29-23.06.55:068][  0]SourceControl: Source control is disabled
+[2019.09.29-23.06.57:598][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.29-23.06.59:271][  0]LogOcInput: OculusInput pre-init called
+[2019.09.29-23.06.59:381][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.29-23.06.59:381][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.29-23.07.01:797][  0]LogEngine: Initializing Engine...
+[2019.09.29-23.07.01:852][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.29-23.07.01:944][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.054 s
+[2019.09.29-23.07.04:685][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.29-23.07.07:272][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-23.07.07:748][  0]LogInit: XAudio2 using 'SAMSUNG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-23.07.07:950][  0]LogInit: FAudioDevice initialized.
+[2019.09.29-23.07.07:962][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.29-23.07.08:289][  0]LogDerivedDataCache: Saved boot cache 0.33s 73MB C:/Users/Nathan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.29-23.07.08:360][  0]LogInit: Texture streaming: Enabled
+[2019.09.29-23.07.08:883][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.29-23.07.14:009][  0]LogInit: Transaction tracking system initialized
+[2019.09.29-23.07.22:717][  0]BlueprintLog: New page: Editor Load
+[2019.09.29-23.07.38:306][  0]LocalizationService: Localization service is disabled
+[2019.09.29-23.07.54:606][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/' took 0.13s
+[2019.09.29-23.07.54:606][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.29-23.07.54:657][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.29-23.08.12:286][  0]SourceControl: Source control is disabled
+[2019.09.29-23.08.12:819][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.29-23.08.12:993][  0]LightingResults: New page: Lighting Build
+[2019.09.29-23.08.13:815][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.29-23.08.14:595][  0]MapCheck: New page: Map Check
+[2019.09.29-23.08.14:595][  0]LightingResults: New page: Lighting Build
+[2019.09.29-23.08.19:986][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.09.29-23.08.43:847][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.29-23.08.47:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-23.08.49:890][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.09.29-23.08.49:942][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-23.08.50:196][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 254.053ms to complete.
+[2019.09.29-23.08.50:196][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 37.616
+[2019.09.29-23.09.02:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-23.09.02:994][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-23.09.03:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-23.09.03:010][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-23.09.03:488][  0]LogCollectionManager: Loaded 0 collections in 0.002273 seconds
+[2019.09.29-23.09.03:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Collections/' took 0.00s
+[2019.09.29-23.09.03:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Developers/Nathan/Collections/' took 0.00s
+[2019.09.29-23.09.03:687][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Collections/' took 0.00s
+[2019.09.29-23.09.03:687][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.29-23.09.03:698][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2863 classes and 680 folders.
+[2019.09.29-23.09.04:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-23.09.07:677][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-23.09.07:808][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.29-23.09.09:044][  0]LogSlate: Took 0.119212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.29-23.09.09:194][  0]LogSlate: Took 0.127310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.29-23.09.09:448][  0]LogSlate: Took 0.073667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.29-23.09.11:195][  0]LogRenderer: Reallocating scene render targets to support 700x380 Format 10 NumSamples 1 (Frame:1).
+[2019.09.29-23.09.12:954][  0]LogSlate: Took 0.025603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-23.09.13:790][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-23.09.13:790][  0]LogLoad: (Engine Initialization) Total time: 367.01 seconds
+[2019.09.29-23.09.13:790][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.29-23.09.15:138][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.29-23.09.26:365][ 74]LogAssetRegistry: Asset discovery search completed in 246.4924 seconds
+[2019.09.29-23.09.26:626][ 74]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.036508 seconds (found 0 objects)
+[2019.09.29-23.09.26:626][ 74]LogCollectionManager: Fixed up redirectors for 0 collections in 0.036573 seconds (updated 0 objects)
+[2019.09.29-23.09.45:743][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-23.09.46:096][409]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-23.10.08:494][409]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-23.10.08:743][409]LogAssetEditorManager: Opening Asset editor for World /Game/Untitled.Untitled
+[2019.09.29-23.10.08:884][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.09.29-23.10.09:165][409]Cmd: MAP LOAD FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.29-23.10.09:167][409]LightingResults: New page: Lighting Build
+[2019.09.29-23.10.09:168][409]LoadErrors: New page: Loading map: Untitled.umap
+[2019.09.29-23.10.09:421][409]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.29-23.10.09:496][409]MapCheck: New page: Map Check
+[2019.09.29-23.10.09:496][409]LightingResults: New page: Lighting Build
+[2019.09.29-23.10.09:764][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.09.29-23.10.40:726][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-23.10.40:784][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.09.29-23.10.40:860][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-23.10.40:860][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.09.29-23.10.40:860][409]LogFileHelpers: Loading map 'Untitled' took 31.968
+[2019.09.29-23.14.02:206][368]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-23.14.02:387][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.29-23.14.02:417][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-23.14.02:451][368]PIE: New page: PIE session: Untitled (Sep 29, 2019, 5:14:02 PM)
+[2019.09.29-23.14.02:609][368]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.29-23.14.02:632][368]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.29-23.14.03:148][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.516490s)
+[2019.09.29-23.14.03:182][368]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-23.14.03:218][368]LogPlayLevel: PIE: World Init took: (0.069357s)
+[2019.09.29-23.14.03:285][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.652963s)
+[2019.09.29-23.14.03:311][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.09.29-23.14.03:536][368]LogInit: XAudio2 using 'SAMSUNG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-23.14.03:602][368]LogInit: FAudioDevice initialized.
+[2019.09.29-23.14.04:044][368]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.29-23.14.04:561][368]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.29-20.14.04
+[2019.09.29-23.14.04:744][368]LogWorld: Bringing up level for play took: 0.188050
+[2019.09.29-23.14.04:793][368]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.09.29-23.14.05:069][368]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.09.29-23.14.05:239][368]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 3.415
+[2019.09.29-23.14.05:240][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.29-23.14.19:363][982]LogBlueprintUserMessages: [ThirdPersonCharacter_Blueprint_2] AOOO VIDA BOOA
+[2019.09.29-23.14.59:438][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.29-23.14.59:614][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-23.14.59:615][691]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2019.09.29-23.14.59:649][691]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.29-23.14.59:802][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-23.14.59:865][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.29-23.15.00:030][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-23.15.00:277][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.09.29-23.15.00:305][692]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.29-23.15.21:235][867]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.09.29-23.15.24:132][ 60]Cmd: SELECT NONE
+[2019.09.29-23.15.25:701][169]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.29-23.15.28:476][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.09.29-23.24.48:064][701]SourceControl: Source control is disabled
+[2019.09.29-23.24.48:142][701]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.29-23.25.06:333][418]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.29-23.25.20:772][112]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.29-23.25.25:135][592]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.09.29-23.25.27:409][592]EditorErrors: Warning: No assets to check in!
+[2019.09.29-23.25.38:480][235]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.09.29-23.25.38:612][235]EditorErrors: Warning: No assets to check in!
+[2019.09.29-23.25.40:428][344]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.09.29-23.25.40:583][344]EditorErrors: Warning: No assets to check in!
+[2019.09.29-23.25.46:476][362]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.09.29-23.25.46:830][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-23.26.02:371][721]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.09.29-23.26.02:493][721]EditorErrors: Warning: No assets to check in!
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: request failed, libcurl error: 0 (No error)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.92.97) port 443 (#6))
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 7 (Closing connection 6)
+[2019.09.29-23.26.14:634][205]LogHttp: Warning: 00000130A2FC9800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.29-23.26.14:970][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.29-23.26.20:297][400]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-23.26.20:301][400]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-23.26.51:635][408]SourceControl: Source control is disabled
+[2019.09.29-23.26.51:635][408]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.29-23.30.39:830][765]SourceControl: Source control is disabled
+[2019.09.29-23.30.39:831][765]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.29-23.31.01:515][214]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.29-23.43.15:121][548]LogHttp: Warning: 00000130ED8B5BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: request failed, libcurl error: 0 (No error)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.239.133) port 443 (#12))
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 7 (Closing connection 12)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: 00000130ED8B5BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.29-23.43.15:153][548]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: request failed, libcurl error: 0 (No error)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 1 (Re-using existing connection! (#15) with host datarouter.ol.epicgames.com)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.216.167.239) port 443 (#15))
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 7 (Closing connection 15)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: 00000130ED8B5E40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.29-23.53.15:007][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: request failed, libcurl error: 0 (No error)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 1 (Re-using existing connection! (#32) with host datarouter.ol.epicgames.com)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.134.23) port 443 (#32))
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 7 (Closing connection 32)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: 00000130ED8B51C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-00.35.14:852][866]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: request failed, libcurl error: 0 (No error)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.58.248) port 443 (#36))
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 7 (Closing connection 36)
+[2019.09.30-00.46.15:129][826]LogHttp: Warning: 00000130ED8B5D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-00.46.15:130][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-01.29.14:613][492]LogHttp: Warning: 00000130ED8B5F80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: request failed, libcurl error: 0 (No error)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 1 (Re-using existing connection! (#53) with host datarouter.ol.epicgames.com)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.62.2) port 443 (#53))
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 7 (Closing connection 53)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: 00000130ED8B5F80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-01.29.14:614][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: request failed, libcurl error: 0 (No error)
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.173.205.129) port 443 (#61))
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-01.49.14:763][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-01.49.14:764][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-01.49.14:764][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-01.49.14:764][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 7 (Closing connection 61)
+[2019.09.30-01.49.14:764][ 59]LogHttp: Warning: 00000130ED8B6E80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-01.49.15:103][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-01.54.22:426][951]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.30-01.57.08:234][487]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2019.09.30-01.57.12:030][487]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.30-01.57.15:839][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-01.57.16:976][663]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.30-01.57.17:761][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-01.57.18:151][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.30-01.57.18:309][663]PIE: New page: PIE session: Untitled (Sep 29, 2019, 7:57:18 PM)
+[2019.09.30-01.57.18:796][663]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.30-01.57.25:676][663]LogPlayLevel: PIE: StaticDuplicateObject took: (6.805769s)
+[2019.09.30-01.57.30:491][663]LogAIModule: Creating AISystem for world Untitled
+[2019.09.30-01.57.33:131][663]LogPlayLevel: PIE: World Init took: (7.454838s)
+[2019.09.30-01.57.33:344][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (14.547728s)
+[2019.09.30-01.57.36:511][663]LogUObjectHash: Compacting FUObjectHashTables data took  54.45ms
+[2019.09.30-01.57.38:113][663]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.30-01.57.38:124][663]LogInit: FAudioDevice initialized.
+[2019.09.30-01.57.38:328][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-01.57.39:547][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.30-01.57.42:759][663]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 3) at 2019.09.29-22.57.42
+[2019.09.30-01.57.43:146][663]LogWorld: Bringing up level for play took: 2.775857
+[2019.09.30-01.57.43:532][663]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.09.30-01.57.44:768][663]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 26.943
+[2019.09.30-01.57.44:843][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-01.57.53:231][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-01.57.53:583][114]LogRenderer: Reallocating scene render targets to support 700x400 Format 10 NumSamples 1 (Frame:445).
+[2019.09.30-01.57.53:756][115]LogRenderer: Reallocating scene render targets to support 700x404 Format 10 NumSamples 1 (Frame:446).
+[2019.09.30-01.57.54:612][116]LogRenderer: Reallocating scene render targets to support 700x448 Format 10 NumSamples 1 (Frame:447).
+[2019.09.30-01.57.55:101][117]LogRenderer: Reallocating scene render targets to support 700x540 Format 10 NumSamples 1 (Frame:448).
+[2019.09.30-01.57.59:118][425]LogRenderer: Reallocating scene render targets to support 704x540 Format 10 NumSamples 1 (Frame:633).
+[2019.09.30-01.57.59:188][427]LogRenderer: Reallocating scene render targets to support 708x540 Format 10 NumSamples 1 (Frame:634).
+[2019.09.30-01.57.59:440][430]LogRenderer: Reallocating scene render targets to support 716x540 Format 10 NumSamples 1 (Frame:636).
+[2019.09.30-01.57.59:458][430]LogRenderer: Reallocating scene render targets to support 756x540 Format 10 NumSamples 1 (Frame:637).
+[2019.09.30-01.57.59:661][431]LogRenderer: Reallocating scene render targets to support 808x540 Format 10 NumSamples 1 (Frame:638).
+[2019.09.30-01.57.59:701][432]LogRenderer: Reallocating scene render targets to support 832x540 Format 10 NumSamples 1 (Frame:639).
+[2019.09.30-01.58.04:396][842]Cmd: LevelEditor.ToggleImmersive
+[2019.09.30-01.58.06:973][843]LogRenderer: Reallocating scene render targets to support 1368x740 Format 10 NumSamples 1 (Frame:957).
+[2019.09.30-01.58.07:332][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-01.58.37:385][271]LogBlueprintUserMessages: [ThirdPersonCharacter_Blueprint_2] AOOO VIDA BOOA
+[2019.09.30-01.59.00:868][ 42]LogCharacterMovement: ThirdPersonCharacter_Blueprint_2 is stuck and failed to move! Velocity: X=68.35 Y=-32.51 Z=0.00 Location: X=1305.75 Y=-16396.09 Z=-2049.54 Normal: X=-0.31 Y=0.03 Z=-0.95 PenetrationDepth:0.598 Actor:ObjetoPegavel_2 Component:Pegavelzao BoneName:None (0 other events since notify)
+[2019.09.30-01.59.01:870][162]LogCharacterMovement: ThirdPersonCharacter_Blueprint_2 is stuck and failed to move! Velocity: X=66.92 Y=313.00 Z=0.00 Location: X=1406.52 Y=-16371.70 Z=-2054.15 Normal: X=-0.46 Y=-0.03 Z=-0.89 PenetrationDepth:0.086 Actor:ObjetoPegavel_2 Component:Pegavelzao BoneName:None (21 other events since notify)
+[2019.09.30-01.59.19:523][234]LogBlueprintUserMessages: [ThirdPersonCharacter_Blueprint_2] AOOO VIDA BOOA
+[2019.09.30-01.59.30:878][580]Cmd: LevelEditor.ToggleImmersive
+[2019.09.30-01.59.31:165][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-01.59.33:222][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-01.59.33:268][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.30-01.59.33:289][800]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2019.09.30-01.59.33:314][800]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-01.59.33:569][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.30-01.59.33:569][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-01.59.33:697][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.30-01.59.33:977][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.09.30-01.59.34:220][801]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.30-01.59.35:873][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.00.02:273][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: request failed, libcurl error: 0 (No error)
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 1 (Re-using existing connection! (#65) with host datarouter.ol.epicgames.com)
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.42.24) port 443 (#65))
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-02.00.14:534][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-02.00.14:535][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 7 (Closing connection 65)
+[2019.09.30-02.00.14:535][344]LogHttp: Warning: 00000130C3FD9BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-02.00.14:536][344]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-02.00.17:744][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.00.31:592][804]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ObjetoPegavel.ObjetoPegavel
+[2019.09.30-02.00.40:281][804]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0841 seconds. Added 121 classes and 0 folders.
+[2019.09.30-02.00.50:464][804]LogSlate: Took 0.018317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.30-02.00.51:990][805]LogSlate: Took 0.033957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.30-02.01.24:160][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.01.57:671][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.01.57:726][695]BlueprintLog: New page: Compile ObjetoPegavel
+[2019.09.30-02.01.59:674][695]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.09.30-02.03.17:402][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.03.52:859][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.03.52:911][766]BlueprintLog: New page: Compile ObjetoPegavel
+[2019.09.30-02.03.53:167][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.09.30-02.03.56:095][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.03.56:259][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCharacter_Blueprint.ThirdPersonCharacter_Blueprint
+[2019.09.30-02.04.04:053][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.04.38:280][714]BlueprintLog: New page: Compile ObjetoPegavel
+[2019.09.30-02.04.38:510][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.09.30-02.04.46:037][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-02.04.47:031][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.30-02.04.47:051][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-02.04.47:051][435]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.30-02.04.47:057][435]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter_Blueprint before play...
+[2019.09.30-02.04.47:439][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.09.30-02.04.47:447][435]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (1 blueprints)
+[2019.09.30-02.04.47:448][435]PIE: New page: PIE session: Untitled (Sep 29, 2019, 8:04:47 PM)
+[2019.09.30-02.04.47:448][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.09.30-02.04.47:761][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.312312s)
+[2019.09.30-02.04.47:763][435]LogAIModule: Creating AISystem for world Untitled
+[2019.09.30-02.04.47:763][435]LogPlayLevel: PIE: World Init took: (0.002488s)
+[2019.09.30-02.04.47:763][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.315047s)
+[2019.09.30-02.04.47:799][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.09.30-02.04.47:848][435]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.30-02.04.47:857][435]LogInit: FAudioDevice initialized.
+[2019.09.30-02.04.47:858][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-02.04.47:868][435]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.30-02.04.47:877][435]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2019.09.29-23.04.47
+[2019.09.30-02.04.47:878][435]LogWorld: Bringing up level for play took: 0.009715
+[2019.09.30-02.04.47:879][435]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.30-02.04.47:881][435]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.055
+[2019.09.30-02.04.47:881][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-02.05.02:218][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_Blueprint_2] AOOO VIDA BOOA
+[2019.09.30-02.05.14:718][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-02.05.14:718][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.30-02.05.14:718][422]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2019.09.30-02.05.14:718][422]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.05.14:737][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.30-02.05.14:737][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.09.30-02.05.14:783][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.30-02.05.14:824][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.09.30-02.05.14:854][423]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.30-02.05.16:982][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.06.32:953][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.06.39:438][369]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:439][369]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Untitled.Untitled:PersistentLevel.ObjetoPegavel_2.Pegavelzao' 
+[2019.09.30-02.06.39:440][369]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:455][370]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:455][370]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:456][370]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:466][371]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:467][371]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:467][371]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:485][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:486][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:486][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:497][373]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:497][373]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:498][373]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:514][374]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:515][374]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:515][374]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:529][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:529][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:530][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:544][376]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:544][376]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:544][376]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:560][377]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:560][377]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:560][377]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:574][378]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:574][378]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:574][378]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:591][379]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:591][379]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:591][379]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:602][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:603][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:603][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:621][381]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:622][381]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:622][381]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:632][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:633][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:633][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:652][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.39:652][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ObjetoPegavel_C_0.Pegavelzao' 
+[2019.09.30-02.06.48:225][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.06.49:814][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.06.49:882][ 76]BlueprintLog: New page: Compile ObjetoPegavel
+[2019.09.30-02.06.50:161][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.09.30-02.07.01:247][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.07.01:344][846]LogSlate: Window 'ThirdPersonCharacter_Blueprint' being destroyed
+[2019.09.30-02.07.01:350][846]LogSlate: Window 'ThirdPersonCharacter_Blueprint' being destroyed
+[2019.09.30-02.07.01:582][846]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.07.02:031][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.30-02.07.02:031][846]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.07.06:362][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.07.27:125][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.09.30-02.07.28:522][265]LogSlate: Window 'Save Content' being destroyed
+[2019.09.30-02.07.28:938][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.30-02.07.29:001][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.30-02.07.29:295][265]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Menu7722FD8E479D57E01BCDD280D5643852.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu.umap'
+[2019.09.30-02.07.29:845][265]LogFileHelpers: Saving map 'Menu' took 0.907
+[2019.09.30-02.07.29:970][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ObjetoPegavel" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/ObjetoPegavel.uasset" SILENT=true
+[2019.09.30-02.07.30:773][265]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/ObjetoPegavel00557439415275A70FC8C1B8F517DA9F.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/ObjetoPegavel.uasset'
+[2019.09.30-02.07.30:802][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCharacter_Blueprint" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/ThirdPersonCharacter_Blueprint.uasset" SILENT=true
+[2019.09.30-02.07.31:062][265]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/ThirdPersonCharacter_Blueprint87E0DA584C402C5FB2E5399CF9B85ABC.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/ThirdPersonCharacter_Blueprint.uasset'
+[2019.09.30-02.07.31:142][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.30-02.07.31:260][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.09.30-02.07.38:472][265]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Untitled1502709B4B519DC89828738241162440.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled.umap'
+[2019.09.30-02.07.39:015][265]LogFileHelpers: Saving map 'Untitled' took 7.919
+[2019.09.30-02.07.40:812][376]LogAssetEditorManager: Opening Asset editor for World /Game/Menu/Menu.Menu
+[2019.09.30-02.07.40:854][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.09.30-02.07.40:876][376]Cmd: MAP LOAD FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.30-02.07.40:894][376]LightingResults: New page: Lighting Build
+[2019.09.30-02.07.40:979][376]LoadErrors: New page: Loading map: Menu.umap
+[2019.09.30-02.07.41:001][376]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.07.41:048][376]MapCheck: New page: Map Check
+[2019.09.30-02.07.41:048][376]LightingResults: New page: Lighting Build
+[2019.09.30-02.07.41:420][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.09.30-02.07.41:470][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.30-02.07.41:470][376]LogAIModule: Creating AISystem for world Menu
+[2019.09.30-02.07.41:511][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.09.30-02.07.41:550][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.30-02.07.41:550][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2019.09.30-02.07.41:554][376]LogFileHelpers: Loading map 'Menu' took 0.699
+[2019.09.30-02.07.43:165][514]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.30-02.07.51:210][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.30-02.08.18:516][465]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/Menu_w.Menu_w
+[2019.09.30-02.10.21:465][925]LogSlate: Took 0.103644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.09.30-02.10.39:213][307]LogEditorTransaction: Undo Move Widget
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: request failed, libcurl error: 0 (No error)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 1 (Re-using existing connection! (#68) with host datarouter.ol.epicgames.com)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.166.246) port 443 (#68))
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 7 (Closing connection 68)
+[2019.09.30-02.11.14:603][205]LogHttp: Warning: 000001311509A700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-02.11.14:612][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-02.11.14:919][231]LogEditorTransaction: Undo Set Vector Property
+[2019.09.30-02.14.14:307][309]LogEditorTransaction: Undo Edit Size Rule
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: request failed, libcurl error: 0 (No error)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 1 (Re-using existing connection! (#70) with host datarouter.ol.epicgames.com)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.0.70) port 443 (#70))
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 7 (Closing connection 70)
+[2019.09.30-02.17.14:498][185]LogHttp: Warning: 000001313315D580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-02.17.14:507][186]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-02.18.01:449][104]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/UMG/Editor' is outside repository
+[2019.09.30-02.18.11:871][972]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/UMG/Editor' is outside repository
+[2019.09.30-02.18.53:269][170]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.19.01:713][784]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.19.32:382][427]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2019.09.30-02.19.32:382][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu/Menu' took 0.106
+[2019.09.30-02.19.32:411][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/Menu_w] ([1] browsable assets)...
+[2019.09.30-02.19.32:411][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Menu_w]
+[2019.09.30-02.19.32:411][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_w" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Autosaves/Game/Menu/Menu_w_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.30-02.19.32:500][427]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Menu_w_Auto1D74FE58D4A72BF17FCD914B67E4CDEBA.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Autosaves/Game/Menu/Menu_w_Auto1.uasset'
+[2019.09.30-02.19.32:501][427]LogFileHelpers: Auto-saving content packages took 0.116
+[2019.09.30-02.23.29:689][ 36]LogAIModule: Creating AISystem for world Untitled
+[2019.09.30-02.23.33:332][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.09.30-02.23.33:332][ 36]LogMetaData: Removing '/Game/Deserto.Deserto:PersistentLevel.Deserto.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2019.09.30-02.23.33:332][ 36]LogMetaData: Removing '/Game/Deserto.Deserto:PersistentLevel.Deserto.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2019.09.30-02.23.33:332][ 36]LogMetaData: Removing '/Game/Deserto.Deserto_C' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2019.09.30-02.23.33:332][ 36]LogMetaData: Removing '/Game/Deserto.SKEL_Deserto_C' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2019.09.30-02.23.33:355][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Deserto_BuiltData" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Deserto_BuiltData.uasset" SILENT=true
+[2019.09.30-02.23.34:083][ 36]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Deserto_BuiltData364DD59B4DD7AAFB427852879D22397F.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Deserto_BuiltData.uasset'
+[2019.09.30-02.23.36:769][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.09.30-02.23.36:859][ 36]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Untitled_BuiltData022B74AD43C05FBE5455CF9DBFAF5955.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled_BuiltData.uasset'
+[2019.09.30-02.23.36:947][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Deserto" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Deserto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.30-02.23.50:724][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.09.30-02.23.51:614][ 36]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Deserto33D28FF8404AB2195481029B09CC6AEF.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Deserto.umap'
+[2019.09.30-02.23.52:776][ 36]LogFileHelpers: Saving map 'Deserto' took 15.829
+[2019.09.30-02.23.52:781][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled.umap" SILENT=true
+[2019.09.30-02.23.52:866][ 36]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Untitled8C15E68745BD41A3DA3BDEAD318DE666.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Untitled.umap'
+[2019.09.30-02.24.24:670][319]BlueprintLog: New page: Compile Menu_w
+[2019.09.30-02.24.24:775][319]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.09.30-02.27.48:461][501]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nathan\Desktop\Bg_menu.jpg)
+[2019.09.30-02.27.48:897][501]LogTexture: Display: Building textures: Bg_menu (AutoDXT, 1920X1080)
+[2019.09.30-02.29.00:890][888]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.29.39:639][870]LogEditorTransaction: Undo Move Widget
+[2019.09.30-02.29.39:870][880]LogEditorTransaction: Undo Edit A
+[2019.09.30-02.29.41:981][ 48]LogEditorTransaction: Undo Edit A
+[2019.09.30-02.29.42:435][ 91]LogEditorTransaction: Undo Edit A
+[2019.09.30-02.29.42:895][135]LogEditorTransaction: Undo Edit A
+[2019.09.30-02.29.59:209][404]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: request failed, libcurl error: 0 (No error)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x130ab78ff70 [can pipeline])
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 1 (Re-using existing connection! (#75) with host datarouter.ol.epicgames.com)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.159.232) port 443 (#75))
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 7 (Closing connection 75)
+[2019.09.30-02.30.14:627][719]LogHttp: Warning: 0000013126D2AD40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.30-02.30.14:637][720]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1929B-40DC-FFD6-75D8-F9AFD45A9097%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d16cf8cf497713e3e3ae5087b37795ca%7C8e87207cea2140c99d06613490076dbb%7C32612c08-c190-45b0-bc21-f35b24b48748&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.30-02.30.15:897][815]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.30.20:389][143]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.30.29:681][892]LogEditorTransaction: Undo Set Vector Property
+[2019.09.30-02.31.16:778][594]BlueprintLog: New page: Compile Menu_w
+[2019.09.30-02.31.16:944][594]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2019.09.30-02.31.21:984][123]LogSlate: Window 'Menu_w' being destroyed
+[2019.09.30-02.31.21:988][123]LogSlate: Window 'Menu_w' being destroyed
+[2019.09.30-02.31.22:270][123]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.31.22:454][123]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.31.41:221][ 25]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menu/Menu_w.Menu_w
+[2019.09.30-02.33.23:372][997]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.30-02.35.01:619][514]LogUObjectHash: Compacting FUObjectHashTables data took  67.84ms
+[2019.09.30-02.35.01:619][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menu/Menu' took 0.144
+[2019.09.30-02.35.01:621][514]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/Menu_w] ([1] browsable assets)...
+[2019.09.30-02.35.01:621][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Menu_w]
+[2019.09.30-02.35.01:621][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_w" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Autosaves/Game/Menu/Menu_w_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.30-02.35.02:397][514]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Menu_w_Auto268D543F4497C90E9025E01AC14272AFF.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Autosaves/Game/Menu/Menu_w_Auto2.uasset'
+[2019.09.30-02.35.02:400][514]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bg_menu] ([1] browsable assets)...
+[2019.09.30-02.35.02:405][514]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Bg_menu.Bg_menu]
+[2019.09.30-02.35.02:405][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bg_menu]
+[2019.09.30-02.35.02:406][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bg_menu" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Autosaves/Game/Bg_menu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.30-02.35.02:427][514]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Bg_menu_Auto281AEB77941A7A19FE3D99486B5B9D211.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Autosaves/Game/Bg_menu_Auto2.uasset'
+[2019.09.30-02.35.02:428][514]LogFileHelpers: Auto-saving content packages took 0.807
+[2019.09.30-02.35.10:703][861]BlueprintLog: New page: Compile Menu_w
+[2019.09.30-02.35.10:771][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.09.30-02.35.12:080][992]LogSlate: Window 'Menu_w' being destroyed
+[2019.09.30-02.35.12:086][992]LogSlate: Window 'Menu_w' being destroyed
+[2019.09.30-02.35.12:089][992]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.35.12:093][992]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.09.30-02.35.16:944][476]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Menu/Menu.Menu:PersistentLevel.Menu
+[2019.09.30-02.37.28:437][571]BlueprintLog: New page: Compile Menu
+[2019.09.30-02.37.28:651][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.09.30-02.37.35:520][327]MapCheck: New page: Map Check
+[2019.09.30-02.37.35:568][327]Cmd: MAP REBUILD ALLVISIBLE
+[2019.09.30-02.37.35:571][327]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.09.30-02.37.35:636][327]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=false
+[2019.09.30-02.37.35:709][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.09.30-02.37.35:878][327]LightingResults: New page: Lighting Build - Sep 29, 2019, 8:37:35 PM
+[2019.09.30-02.37.37:585][327]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.30-02.37.38:221][327]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.30-02.37.40:322][327]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.30-02.37.42:866][327]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.30-02.37.42:866][327]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2016
+[2019.09.30-02.37.52:528][327]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.09.30-02.37.52:538][327]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.30-02.37.52:538][327]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.30-02.37.52:538][327]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.30-02.37.52:538][327]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.30-02.37.52:538][327]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.30-02.37.53:335][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.30-02.38.03:665][327]Job is a success!
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.041s
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.09.30-02.38.03:902][327]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.09.30-02.38.04:796][327]Lightmass on DESKTOP-5LSHH6H: 6.48 sec total, 5.37 sec importing, 137 ms setup, 47 ms photons, 612 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 2.44 sec total, 0 ms processing.
+[2019.09.30-02.38.04:796][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.30-02.38.04:797][327]LogStaticLightingSystem: Illumination: 28.8 sec (20 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2019.09.30-02.38.04:797][327]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.09.30-02.38.04:798][327]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.09.30-02.38.05:531][327]DumpUnbuiltLightIteractions
+[2019.09.30-02.38.05:531][327]Lights with unbuilt interactions: 0
+[2019.09.30-02.38.05:531][327]
+[2019.09.30-02.38.05:531][327]Primitives with unbuilt interactions: 0
+[2019.09.30-02.38.05:559][327]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.09.30-02.38.05:559][327]MapCheck: New page: Menu - Sep 29, 2019, 8:38:05 PM
+[2019.09.30-02.38.05:615][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.051ms to complete.
+[2019.09.30-02.38.05:655][327]LogEditorBuildUtils: Build time 0:30
+[2019.09.30-02.38.05:733][328]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.30-02.38.05:733][328]MapCheck: New page: Menu - Sep 29, 2019, 8:38:05 PM
+[2019.09.30-02.38.05:734][328]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.548ms to complete.
+[2019.09.30-02.38.29:389][730]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.30-02.38.52:642][914]SourceControl: fatal: /Script: '/Script' is outside repository
+[2019.09.30-02.39.03:129][928]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.30-02.39.03:134][928]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.30-02.39.21:346][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.09.30-02.39.24:043][ 33]LogSlate: Window 'Save Content' being destroyed
+[2019.09.30-02.39.24:472][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bg_menu" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Bg_menu.uasset" SILENT=true
+[2019.09.30-02.39.24:579][ 33]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Bg_menu9C0017894AE46DC841E970AA26C6E999.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Bg_menu.uasset'
+[2019.09.30-02.39.25:163][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.30-02.39.25:213][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.09.30-02.39.25:590][ 33]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/MenuE1C3CCE5420299460893C3A15765CFC0.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu.umap'
+[2019.09.30-02.39.25:630][ 33]LogFileHelpers: Saving map 'Menu' took 0.467
+[2019.09.30-02.39.25:633][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_BuiltData" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu_BuiltData.uasset" SILENT=true
+[2019.09.30-02.39.25:640][ 33]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Menu_BuiltDataEF0E77E94020B8031C1F4D8222894582.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu_BuiltData.uasset'
+[2019.09.30-02.39.26:135][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_w" FILE="../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu_w.uasset" SILENT=true
+[2019.09.30-02.39.26:190][ 33]LogSavePackage: Moving '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Saved/Menu_wD535D31D4114D066ACB8578D3D6A4325.tmp' to '../../../../../../Users/Nathan/Documents/Unreal Projects/ProtLNM/Content/Menu/Menu_w.uasset'
+[2019.09.30-02.39.26:755][ 33]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-5LSHH6H
+[2019.09.30-02.39.26:849][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.30-02.39.26:889][ 33]LogCook: Display: Creating asset registry
+[2019.09.30-02.39.28:320][ 33]LogCook: Display: Discovering localized assets
+[2019.09.30-02.39.28:355][ 33]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2019.09.30-02.39.28:377][ 33]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2019.09.30-02.39.28:747][ 33]LogCook: Display: Cooked content cleared for platform MacClient
+[2019.09.30-02.39.28:748][ 33]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2019.09.30-02.39.28:828][ 33]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2019.09.30-02.39.28:828][ 33]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2019.09.30-02.39.28:915][ 33]LogCook: Display: Cooked content cleared for platform MacServer
+[2019.09.30-02.39.28:915][ 33]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2019.09.30-02.39.28:960][ 33]LogCook: Display: Cooked content cleared for platform Mac
+[2019.09.30-02.39.28:960][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2019.09.30-02.39.29:000][ 33]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2019.09.30-02.39.29:000][ 33]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2019.09.30-02.39.29:063][ 33]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.09.30-02.39.29:063][ 33]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.09.30-02.39.29:103][ 33]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2019.09.30-02.39.29:103][ 33]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2019.09.30-02.39.29:149][ 33]LogCook: Display: Cooked content cleared for platform Windows
+[2019.09.30-02.39.29:149][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2019.09.30-02.39.29:190][ 33]LogCook: Display: Cooked content cleared for platform Android
+[2019.09.30-02.39.29:190][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2019.09.30-02.39.29:359][ 33]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2019.09.30-02.39.29:359][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2019.09.30-02.39.29:404][ 33]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2019.09.30-02.39.29:404][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2019.09.30-02.39.29:452][ 33]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2019.09.30-02.39.29:453][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2019.09.30-02.39.29:497][ 33]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2019.09.30-02.39.29:498][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2019.09.30-02.39.29:546][ 33]LogCook: Display: Cooked content cleared for platform Android_ETC1a
+[2019.09.30-02.39.29:546][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1a invalidating cook
+[2019.09.30-02.39.29:594][ 33]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2019.09.30-02.39.29:595][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2019.09.30-02.39.29:642][ 33]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2019.09.30-02.39.29:643][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2019.09.30-02.39.29:688][ 33]LogCook: Display: Cooked content cleared for platform AndroidClient
+[2019.09.30-02.39.29:688][ 33]LogCook: Display: Unable to read previous cook inisettings for platform AndroidClient invalidating cook
+[2019.09.30-02.39.29:736][ 33]LogCook: Display: Cooked content cleared for platform Android_ASTCClient
+[2019.09.30-02.39.29:736][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTCClient invalidating cook
+[2019.09.30-02.39.29:782][ 33]LogCook: Display: Cooked content cleared for platform Android_ATCClient
+[2019.09.30-02.39.29:782][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATCClient invalidating cook
+[2019.09.30-02.39.29:943][ 33]LogCook: Display: Cooked content cleared for platform Android_DXTClient
+[2019.09.30-02.39.29:943][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXTClient invalidating cook
+[2019.09.30-02.39.29:994][ 33]LogCook: Display: Cooked content cleared for platform Android_ETC1Client
+[2019.09.30-02.39.29:995][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1Client invalidating cook
+[2019.09.30-02.39.30:076][ 33]LogCook: Display: Cooked content cleared for platform Android_ETC1aClient
+[2019.09.30-02.39.30:076][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1aClient invalidating cook
+[2019.09.30-02.39.30:119][ 33]LogCook: Display: Cooked content cleared for platform Android_ETC2Client
+[2019.09.30-02.39.30:120][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2Client invalidating cook
+[2019.09.30-02.39.30:171][ 33]LogCook: Display: Cooked content cleared for platform Android_PVRTCClient
+[2019.09.30-02.39.30:172][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTCClient invalidating cook
+[2019.09.30-02.39.30:217][ 33]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2019.09.30-02.39.30:217][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2019.09.30-02.39.30:336][ 33]LogCook: Display: Cooked content cleared for platform Android_MultiClient
+[2019.09.30-02.39.30:336][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Android_MultiClient invalidating cook
+[2019.09.30-02.39.30:383][ 33]LogCook: Display: Cooked content cleared for platform HTML5
+[2019.09.30-02.39.30:383][ 33]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2019.09.30-02.39.30:444][ 33]LogCook: Display: Cooked content cleared for platform IOSClient
+[2019.09.30-02.39.30:444][ 33]LogCook: Display: Unable to read previous cook inisettings for platform IOSClient invalidating cook
+[2019.09.30-02.39.30:505][ 33]LogCook: Display: Cooked content cleared for platform IOS
+[2019.09.30-02.39.30:505][ 33]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2019.09.30-02.39.30:546][ 33]LogCook: Display: Cooked content cleared for platform TVOSClient
+[2019.09.30-02.39.30:546][ 33]LogCook: Display: Unable to read previous cook inisettings for platform TVOSClient invalidating cook
+[2019.09.30-02.39.30:592][ 33]LogCook: Display: Cooked content cleared for platform TVOS
+[2019.09.30-02.39.30:592][ 33]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2019.09.30-02.39.30:645][ 33]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2019.09.30-02.39.30:645][ 33]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2019.09.30-02.39.30:773][ 33]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2019.09.30-02.39.30:773][ 33]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2019.09.30-02.39.30:819][ 33]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2019.09.30-02.39.30:819][ 33]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2019.09.30-02.39.30:887][ 33]LogCook: Display: Cooked content cleared for platform Linux
+[2019.09.30-02.39.30:888][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2019.09.30-02.39.30:928][ 33]LogCook: Display: Cooked content cleared for platform Lumin
+[2019.09.30-02.39.30:928][ 33]LogCook: Display: Unable to read previous cook inisettings for platform Lumin invalidating cook
+[2019.09.30-02.39.31:012][ 33]LogCook: Display: Cooked content cleared for platform LuminClient
+[2019.09.30-02.39.31:012][ 33]LogCook: Display: Unable to read previous cook inisettings for platform LuminClient invalidating cook
+[2019.09.30-02.39.31:130][ 33]LogCook: Display: Sandbox cleanup took 2.774 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin LuminClient  iterative false
+[2019.09.30-02.39.45:597][ 34]LogEditorViewport: Clicking Background
+[2019.09.30-02.39.45:610][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.30-02.39.45:653][ 34]LogCook: Display: Cooked packages 0 Packages Remain 425 Total 425
+[2019.09.30-02.39.46:291][ 35]LogAIModule: Creating AISystem for world Entry
+[2019.09.30-02.39.46:374][ 36]LogCook: Display: Cooked packages 0 Packages Remain 426 Total 426
+[2019.09.30-02.39.47:824][ 36]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.30-02.39.47:839][ 37]LogCook: Display: Cooked packages 0 Packages Remain 427 Total 427
+[2019.09.30-02.39.53:129][ 55]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.30-02.39.54:035][ 56]LogCook: Display: Cooked packages 1 Packages Remain 426 Total 427
+[2019.09.30-02.39.56:614][ 57]LogCook: Display: Cooked packages 3 Packages Remain 425 Total 428
+[2019.09.30-02.39.57:047][ 58]LogCook: Display: Cooked packages 4 Packages Remain 424 Total 428
+[2019.09.30-02.39.59:202][ 59]LogCook: Display: Cooked packages 6 Packages Remain 423 Total 429
+[2019.09.30-02.39.59:541][ 60]LogCook: Display: Cooked packages 8 Packages Remain 422 Total 430
+[2019.09.30-02.40.01:329][ 61]LogCook: Display: Cooked packages 11 Packages Remain 421 Total 432
+[2019.09.30-02.40.01:730][ 62]LogCook: Display: Cooked packages 15 Packages Remain 420 Total 435
+[2019.09.30-02.40.02:410][ 63]LogCook: Display: Cooked packages 16 Packages Remain 419 Total 435
+[2019.09.30-02.40.02:839][ 64]LogCook: Display: Cooked packages 21 Packages Remain 418 Total 439
+[2019.09.30-02.40.03:198][ 65]LogCook: Display: Cooked packages 22 Packages Remain 417 Total 439
+[2019.09.30-02.40.05:292][ 66]LogCook: Display: Cooked packages 29 Packages Remain 416 Total 445
+[2019.09.30-02.40.05:625][ 67]LogCook: Display: Cooked packages 31 Packages Remain 415 Total 446
+[2019.09.30-02.40.05:960][ 68]LogCook: Display: Cooked packages 34 Packages Remain 414 Total 448
+[2019.09.30-02.40.06:287][ 69]LogCook: Display: Cooked packages 37 Packages Remain 413 Total 450
+[2019.09.30-02.40.06:396][ 70]LogCook: Display: Cooked packages 43 Packages Remain 412 Total 455
+[2019.09.30-02.40.06:533][ 71]LogCook: Display: Cooked packages 49 Packages Remain 411 Total 460
+[2019.09.30-02.40.06:661][ 72]LogCook: Display: Cooked packages 52 Packages Remain 410 Total 462
+[2019.09.30-02.40.06:852][ 73]LogCook: Display: Cooked packages 55 Packages Remain 409 Total 464
+[2019.09.30-02.40.06:978][ 74]LogCook: Display: Cooked packages 57 Packages Remain 408 Total 465
+[2019.09.30-02.40.07:135][ 75]LogCook: Display: Cooked packages 59 Packages Remain 407 Total 466
+[2019.09.30-02.40.07:340][ 76]LogCook: Display: Cooked packages 62 Packages Remain 406 Total 468
+[2019.09.30-02.40.07:661][ 77]LogCook: Display: Cooked packages 64 Packages Remain 405 Total 469
+[2019.09.30-02.40.07:800][ 78]LogCook: Display: Cooked packages 66 Packages Remain 405 Total 471
+[2019.09.30-02.40.07:949][ 79]LogCook: Display: Cooked packages 67 Packages Remain 404 Total 471
+[2019.09.30-02.40.08:135][ 80]LogCook: Display: Cooked packages 69 Packages Remain 404 Total 473
+[2019.09.30-02.40.08:873][ 81]LogCook: Display: Cooked packages 71 Packages Remain 403 Total 474
+[2019.09.30-02.40.09:009][ 82]LogCook: Display: Cooked packages 74 Packages Remain 402 Total 476
+[2019.09.30-02.40.09:284][ 83]LogCook: Display: Cooked packages 81 Packages Remain 401 Total 482
+[2019.09.30-02.40.09:593][ 84]LogCook: Display: Cooked packages 83 Packages Remain 400 Total 483
+[2019.09.30-02.40.09:791][ 85]LogCook: Display: Cooked packages 84 Packages Remain 400 Total 484
+[2019.09.30-02.40.10:111][ 86]LogCook: Display: Cooked packages 86 Packages Remain 399 Total 485
+[2019.09.30-02.40.10:529][ 87]LogCook: Display: Cooked packages 89 Packages Remain 398 Total 487
+[2019.09.30-02.40.10:772][ 88]LogCook: Display: Cooked packages 92 Packages Remain 398 Total 490
+[2019.09.30-02.40.11:037][ 89]LogCook: Display: Cooked packages 93 Packages Remain 397 Total 490
+[2019.09.30-02.40.11:310][ 90]LogCook: Display: Cooked packages 96 Packages Remain 396 Total 492
+[2019.09.30-02.40.11:420][ 91]LogCook: Display: Cooked packages 97 Packages Remain 395 Total 492
+[2019.09.30-02.40.11:567][ 92]LogCook: Display: Cooked packages 99 Packages Remain 395 Total 494
+[2019.09.30-02.40.11:906][ 93]LogCook: Display: Cooked packages 100 Packages Remain 394 Total 494
+[2019.09.30-02.40.12:248][ 94]LogCook: Display: Cooked packages 101 Packages Remain 393 Total 494
+[2019.09.30-02.40.12:582][ 95]LogCook: Display: Cooked packages 102 Packages Remain 392 Total 494
+[2019.09.30-02.40.12:922][ 96]LogCook: Display: Cooked packages 105 Packages Remain 391 Total 496
+[2019.09.30-02.40.13:259][ 97]LogCook: Display: Cooked packages 114 Packages Remain 390 Total 504
+[2019.09.30-02.40.13:592][ 98]LogCook: Display: Cooked packages 116 Packages Remain 389 Total 505
+[2019.09.30-02.40.13:929][ 99]LogCook: Display: Cooked packages 117 Packages Remain 388 Total 505
+[2019.09.30-02.40.14:262][100]LogCook: Display: Cooked packages 127 Packages Remain 387 Total 514
+[2019.09.30-02.40.14:702][101]LogCook: Display: Cooked packages 132 Packages Remain 386 Total 518
+[2019.09.30-02.40.15:040][102]LogCook: Display: Cooked packages 146 Packages Remain 385 Total 531
+[2019.09.30-02.40.15:718][104]LogCook: Display: Cooked packages 147 Packages Remain 384 Total 531
+[2019.09.30-02.40.16:051][105]LogCook: Display: Cooked packages 154 Packages Remain 383 Total 537
+[2019.09.30-02.40.16:540][106]LogCook: Display: Cooked packages 155 Packages Remain 382 Total 537
+[2019.09.30-02.40.17:103][107]LogCook: Display: Cooked packages 168 Packages Remain 381 Total 549
+[2019.09.30-02.40.17:439][108]LogCook: Display: Cooked packages 171 Packages Remain 380 Total 551
+[2019.09.30-02.40.18:047][109]LogCook: Display: Cooked packages 173 Packages Remain 379 Total 552
+[2019.09.30-02.40.18:432][110]LogCook: Display: Cooked packages 175 Packages Remain 378 Total 553
+[2019.09.30-02.40.18:768][111]LogCook: Display: Cooked packages 176 Packages Remain 377 Total 553
+[2019.09.30-02.40.19:103][112]LogCook: Display: Cooked packages 191 Packages Remain 376 Total 567
+[2019.09.30-02.40.20:444][116]LogCook: Display: Cooked packages 192 Packages Remain 375 Total 567
+[2019.09.30-02.40.20:777][117]LogCook: Display: Cooked packages 224 Packages Remain 374 Total 598
+[2019.09.30-02.40.21:954][120]LogCook: Display: Cooked packages 225 Packages Remain 373 Total 598
+[2019.09.30-02.40.22:290][121]LogCook: Display: Cooked packages 241 Packages Remain 372 Total 613
+[2019.09.30-02.40.23:286][123]LogCook: Display: Cooked packages 253 Packages Remain 371 Total 624
+[2019.09.30-02.40.23:623][124]LogCook: Display: Cooked packages 258 Packages Remain 370 Total 628
+[2019.09.30-02.40.23:971][125]LogCook: Display: Cooked packages 264 Packages Remain 369 Total 633
+[2019.09.30-02.40.24:336][126]LogCook: Display: Cooked packages 266 Packages Remain 368 Total 634
+[2019.09.30-02.40.24:675][127]LogCook: Display: Cooked packages 274 Packages Remain 367 Total 641
+[2019.09.30-02.40.25:008][128]LogCook: Display: Cooked packages 281 Packages Remain 366 Total 647
+[2019.09.30-02.40.25:341][129]LogCook: Display: Cooked packages 286 Packages Remain 365 Total 651
+[2019.09.30-02.40.26:035][130]LogCook: Display: Cooked packages 292 Packages Remain 364 Total 656
+[2019.09.30-02.40.26:371][131]LogCook: Display: Cooked packages 340 Packages Remain 363 Total 703
+[2019.09.30-02.40.27:041][133]LogCook: Display: Cooked packages 341 Packages Remain 362 Total 703
+[2019.09.30-02.40.27:379][134]LogCook: Display: Cooked packages 344 Packages Remain 361 Total 705
+[2019.09.30-02.40.27:712][135]LogCook: Display: Cooked packages 345 Packages Remain 360 Total 705
+[2019.09.30-02.40.28:126][136]LogCook: Display: Cooked packages 347 Packages Remain 359 Total 706
+[2019.09.30-02.40.28:894][137]LogCook: Display: Cooked packages 348 Packages Remain 358 Total 706
+[2019.09.30-02.40.34:706][138]LogCook: Display: Cooked packages 349 Packages Remain 357 Total 706
+[2019.09.30-02.40.35:132][139]LogCook: Display: Cooked packages 351 Packages Remain 356 Total 707
+[2019.09.30-02.40.36:021][140]LogCook: Display: Cooked packages 352 Packages Remain 355 Total 707
+[2019.09.30-02.40.36:956][141]LogCook: Display: Cooked packages 357 Packages Remain 354 Total 711
+[2019.09.30-02.40.37:294][142]LogCook: Display: Cooked packages 358 Packages Remain 353 Total 711
+[2019.09.30-02.40.37:624][143]LogCook: Display: Cooked packages 361 Packages Remain 352 Total 713
+[2019.09.30-02.40.37:957][144]LogCook: Display: Cooked packages 366 Packages Remain 351 Total 717
+[2019.09.30-02.40.38:296][145]LogCook: Display: Cooked packages 367 Packages Remain 350 Total 717
+[2019.09.30-02.40.38:632][146]LogCook: Display: Cooked packages 373 Packages Remain 349 Total 722
+[2019.09.30-02.40.38:967][147]LogCook: Display: Cooked packages 389 Packages Remain 55 Total 444
+[2019.09.30-02.40.39:426][147]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2019.09.30-02.40.40:042][148]LogCook: Display: Cooked packages 396 Packages Remain 54 Total 450
+[2019.09.30-02.40.40:455][149]LogCook: Display: Cooked packages 398 Packages Remain 53 Total 451
+[2019.09.30-02.40.40:788][150]LogCook: Display: Cooked packages 402 Packages Remain 52 Total 454
+[2019.09.30-02.40.41:046][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2019.09.30-02.40.54:897][151]LogCook: Display: Cooked packages 404 Packages Remain 51 Total 455
+[2019.09.30-02.40.55:083][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.09.30-02.40.55:231][152]LogCook: Display: Cooked packages 410 Packages Remain 50 Total 460
+[2019.09.30-02.40.55:393][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.09.30-02.40.55:736][153]LogCook: Display: Cooked packages 413 Packages Remain 49 Total 462
+[2019.09.30-02.40.56:075][154]LogCook: Display: Cooked packages 415 Packages Remain 48 Total 463
+[2019.09.30-02.40.56:149][154]LogCook: Display: Cooked packages 417 Packages Remain 47 Total 464
+[2019.09.30-02.40.56:454][155]LogCook: Display: Cooked packages 419 Packages Remain 46 Total 465
+[2019.09.30-02.40.57:179][157]LogCook: Display: Cooked packages 422 Packages Remain 45 Total 467
+[2019.09.30-02.40.57:454][158]LogCook: Display: Cooked packages 424 Packages Remain 44 Total 468
+[2019.09.30-02.40.58:432][161]LogCook: Display: Cooked packages 427 Packages Remain 2 Total 429
+[2019.09.30-02.40.58:432][161]LogCook: Display: Cooked packages 427 Packages Remain 0 Total 427
+[2019.09.30-02.40.58:432][161]LogCook: Display: Finishing up...
+[2019.09.30-02.40.59:106][161]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.09.30-02.40.59:106][161]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.09.30-02.40.59:106][161]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.09.30-02.40.59:759][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.00:198][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.340 s
+[2019.09.30-02.41.00:202][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.00:500][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.00:500][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.00:525][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.00:528][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.00:528][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.00:558][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.00:558][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.00:574][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.00:576][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.00:576][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.00:604][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.00:604][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.00:624][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.00:626][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.00:626][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.00:656][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.00:657][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.00:693][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.00:696][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.00:696][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.00:733][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.00:733][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.00:760][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.00:762][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.00:762][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.00:962][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.00:962][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:025][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:027][161]LogAssetRegistryGenerator: Chunk: 0, Started with 420 packages, Final after dependency resolve: 420
+[2019.09.30-02.41.01:028][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:028][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:281][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 417, size is 194.26kb
+[2019.09.30-02.41.01:281][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:293][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:296][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:296][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:328][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:328][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:340][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:344][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.01:345][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:381][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:381][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:396][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:401][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.005 s
+[2019.09.30-02.41.01:401][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:431][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:431][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:444][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:447][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:447][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:478][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:478][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:494][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:496][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.01:496][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:526][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:526][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:539][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:542][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:542][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:672][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:672][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:695][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:698][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:698][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:737][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:737][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:766][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:769][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:769][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:817][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:817][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:832][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:836][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.01:836][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:876][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:876][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:889][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:892][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:892][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:925][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:925][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:943][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.01:946][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.01:946][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.01:983][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.01:983][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.01:995][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:000][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.006 s
+[2019.09.30-02.41.02:001][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:038][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:038][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:055][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:057][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.02:057][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:114][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:114][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:126][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:131][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.02:131][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:172][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:172][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:187][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:189][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.02:189][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:224][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:224][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:241][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:244][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.02:244][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:283][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:283][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:296][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:302][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.005 s
+[2019.09.30-02.41.02:302][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:345][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:345][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:360][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:363][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.02:363][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:415][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:415][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:427][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:431][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.02:431][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:493][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:493][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:509][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:513][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.02:513][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:543][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:543][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:562][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:566][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.02:566][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:606][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:606][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:623][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:625][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.02:625][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:660][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:660][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:682][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:685][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.02:685][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:717][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:717][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:729][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:733][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.02:734][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:766][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:766][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:784][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:786][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.02:786][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:862][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:862][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:883][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:886][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.02:886][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:925][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:925][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.02:948][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.02:952][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.02:952][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.02:988][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.02:988][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.03:003][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.03:007][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.03:007][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.03:041][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.03:041][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.03:056][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.03:059][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.09.30-02.41.03:060][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.03:115][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.03:115][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.03:128][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.03:132][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.09.30-02.41.03:132][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.03:177][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.03:177][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.03:193][161]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.09.30-02.41.03:195][161]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.09.30-02.41.03:195][161]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.09.30-02.41.03:232][161]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.09.30-02.41.03:232][161]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.09.30-02.41.03:242][161]LogCook: Display: Cook by the book total time in tick 62.869740s total time 96.354553
+[2019.09.30-02.41.03:242][161]LogCook: Display: Peak Used virtual 3946MB Peak Used physical 1745MB
+[2019.09.30-02.41.03:242][161]LogCook: Display: Hierarchy Timer Information:
+[2019.09.30-02.41.03:243][161]LogCook: Display:   Root: 0.000s (0)
+[2019.09.30-02.41.03:243][161]LogCook: Display:     StartCookByTheBookTime: 17.947s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       GenerateAssetRegistryTime: 0.000s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       CleanSandboxTime: 2.774s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         ProcessingAccessedStrings: 0.217s (38)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       CollectFilesToCook: 0.167s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         CookModificationDelegate: 0.016s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         GeneratePackageNames: 0.001s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:     TickCookOnTheSide: 62.834s (132)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       LoadPackage: 2.924s (19)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.686s (132)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       PostLoadPackageFixup: 0.000s (132)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       SavingPackages: 54.086s (132)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         EnqueueUnsavedPackages: 0.011s (127)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.157s (422)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         PrecachePlatformDataForNextNextPackage: 2.481s (416)
+[2019.09.30-02.41.03:243][161]LogCook: Display:         SaveCookedPackage: 50.340s (427)
+[2019.09.30-02.41.03:243][161]LogCook: Display:           LoadPackage: 0.001s (427)
+[2019.09.30-02.41.03:243][161]LogCook: Display:           GEditorSavePackage: 49.802s (427)
+[2019.09.30-02.41.03:243][161]LogCook: Display:             ConvertingBlueprints: 0.768s (427)
+[2019.09.30-02.41.03:243][161]LogCook: Display:             VerifyCanCookPackage: 0.059s (420)
+[2019.09.30-02.41.03:243][161]LogCook: Display:     GeneratingBlueprintAssets: 0.826s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:     SavingCurrentIniSettings: 0.051s (1)
+[2019.09.30-02.41.03:243][161]LogCook: Display:       ProcessingAccessedStrings: 0.006s (1)
+[2019.09.30-02.41.03:244][161]LogCook: Display:     SavingAssetRegistry: 3.756s (1)
+[2019.09.30-02.41.03:244][161]LogCook: Display:       BuildChunkManifest: 0.560s (38)
+[2019.09.30-02.41.03:244][161]LogCook: Display:       SaveManifests: 0.599s (38)
+[2019.09.30-02.41.03:244][161]LogCook: Display:       SaveRealAssetRegistry: 2.228s (38)
+[2019.09.30-02.41.03:244][161]LogCook: Display:       WriteCookerOpenOrder: 0.319s (38)
+[2019.09.30-02.41.03:244][161]LogCook: Display: Done!
+[2019.09.30-02.41.03:664][162]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 77.408570
+[2019.09.30-02.41.06:702][172]LogPlayLevel: Running AutomationTool...
+[2019.09.30-02.41.10:720][184]LogPlayLevel: Parsing command line: -ScriptsForProject="C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/ProtLNM.uproject" BuildCookRun -project="C:/Users/Nathan/Documents/Unreal Projects/ProtLNM/ProtLNM.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -map=/Game/Menu/Menu -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/Menu/Menu -Messaging" -device=WindowsNoEditor@DESKTOP-5LSHH6H -addcmdline="-SessionId=EC515E9047869B87BE185E9E2FA531B3 -SessionOwner='Nathan' -SessionName='Launch On Device'  " -run
+[2019.09.30-02.41.35:725][433]LogPlayLevel: Setting up ProjectParams for C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\ProtLNM.uproject
+[2019.09.30-02.41.36:063][434]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2019.09.30-02.41.36:395][435]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 32.288795
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Creating Staging Manifest...
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.09.30-02.41.40:745][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.09.30-02.41.40:746][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.09.30-02.41.40:746][448]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.09.30-02.41.40:746][448]LogPlayLevel: Excluding config file C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Config\DefaultEditor.ini
+[2019.09.30-02.41.41:078][449]LogPlayLevel: Excluding config file C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.09.30-02.41.41:078][449]LogPlayLevel: Cleaning Stage Directory: C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.30-02.41.55:542][756]LogPlayLevel: Copying NonUFSFiles to staging directory: C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.30-02.42.22:822][506]LogPlayLevel: Copying UFSFiles to staging directory: C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.30-02.42.30:156][362]LogPlayLevel: Copying DebugFiles to staging directory: C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Saved\StagedBuilds\WindowsNoEditor
+[2019.09.30-02.42.30:206][368]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2019.09.30-02.42.30:206][368]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2019.09.30-02.42.30:206][368]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2019.09.30-02.42.30:282][377]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2019.09.30-02.42.30:282][377]LogPlayLevel: Warning: WARNING: Win64 does not implement Deploy...
+[2019.09.30-02.42.30:383][389]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2019.09.30-02.42.30:383][389]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2019.09.30-02.42.30:450][397]LogPlayLevel: Starting Client....
+[2019.09.30-02.42.30:450][397]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 53.852376
+[2019.09.30-02.42.33:216][716]LogPlayLevel: Running: C:\Users\Nathan\Documents\Unreal Projects\ProtLNM\Saved\StagedBuilds\WindowsNoEditor\Engine\Binaries\Win64\UE4Game.exe ../../../ProtLNM/ProtLNM.uproject /Game/Menu/Menu -stdout -abslog="C:\Users\Nathan\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=EC515E9047869B87BE185E9E2FA531B3 -SessionOwner="Nathan" -SessionName="Launch On Device"
+[2019.09.30-02.42.33:216][716]LogPlayLevel: LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.09.30-02.42.37:372][200]LogPlayLevel: LogInit: Display: Running engine for game: ProtLNM
+[2019.09.30-02.42.37:887][261]LogPlayLevel: LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+[2019.09.30-02.42.46:287][159]LogPlayLevel: [2019.09.30-02.42.37:881][  0]LogHAL: Display: Platform has ~ 8 GB [8552325120 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.30-02.42.56:995][191]LogPlayLevel: [2019.09.30-02.42.46:266][  0]LogStreaming: Display: Flushing async loaders.
+[2019.09.30-02.42.58:331][195]LogPlayLevel: [2019.09.30-02.42.56:936][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.30-02.42.58:331][195]LogPlayLevel: Warning: [2019.09.30-02.42.58:300][  0]LogAudio: Warning: Waited 35.717598 ms for audio thread.
+[2019.09.30-02.43.02:001][206]LogPlayLevel: Warning: [2019.09.30-02.42.58:305][  0]LogAudio: Warning: Waited 41.102398 ms for audio thread.
+[2019.09.30-02.43.02:001][206]LogPlayLevel: [2019.09.30-02.43.01:691][  0]LogInit: Display: Game Engine Initialized.
+[2019.09.30-02.43.02:669][208]LogPlayLevel: [2019.09.30-02.43.01:873][  0]LogInit: Display: Starting Game.
+[2019.09.30-02.43.02:669][208]LogPlayLevel: Warning: [2019.09.30-02.43.02:591][  0]LogAudio: Warning: Waited 35.564602 ms for audio thread.
+[2019.09.30-02.43.10:681][232]LogPlayLevel: Warning: [2019.09.30-02.43.02:600][  0]LogAudio: Warning: Waited 44.757401 ms for audio thread.
+[2019.09.30-02.43.20:071][260]LogPlayLevel: [2019.09.30-02.43.10:655][  0]LogUMG: Display: Widget Class Menu_w_C - Loaded Fast Template.
+[2019.09.30-02.43.21:082][263]LogPlayLevel: [2019.09.30-02.43.19:859][329]LogStreaming: Display: Flushing async loaders.
+[2019.09.30-02.46.03:472][747]LogPlayLevel: Warning: [2019.09.30-02.43.21:060][329]LogMaterial: Warning: /Game/Deserto.Deserto:PersistentLevel.Landscape_2.LandscapeMaterialInstanceConstant_291: Failed to compile Material Instance with Base sand-texture_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.30-02.46.07:601][771]LogPlayLevel: [2019.09.30-02.46.03:147][212]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.30-02.46.07:601][771]LogPlayLevel: ********** RUN COMMAND COMPLETED **********
+[2019.09.30-02.46.07:601][771]LogPlayLevel: BUILD SUCCESSFUL
+[2019.09.30-02.46.07:934][772]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 216.679687
+[2019.09.30-02.46.08:940][775]LogPlayLevel: AutomationTool exiting with ExitCode=0 (Success)
+
+[2019.09.30-02.46.08:940][775]LogPlayLevel: Completed Launch On Stage: Post Launch Task, Time: 0.751332
+[2019.09.30-02.46.08:940][775]LogPlayLevel: Launch On Completed. Time: 384.011631
+[2019.09.30-02.53.32:537][526]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.30-02.53.32:779][526]LogAssetTools: Warning: Failed to import 'C:\Users\Nathan\Desktop\Modelos 3D/Gerador.mtl'. Unknown extension 'mtl'.
+[2019.09.30-02.53.32:904][526]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.30-02.53.47:996][526]LogStats: FPlatformStackWalk::StackWalkAndDump - 14.980 s
+[2019.09.30-02.53.47:996][526]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.30-02.53.47:996][526]LogOutputDevice: Error: 
+[2019.09.30-02.53.47:996][526]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Misc/SlowTask.cpp] [Line: 100]
+[2019.09.30-02.53.47:996][526]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2019.09.30-02.53.47:997][526]LogOutputDevice: Error: Stack: 
+[2019.09.30-02.53.47:997][526]LogOutputDevice: Error: [Callstack] 0x00007fff92d76b36 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff92a2bed5 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff69dc3605 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff69dc2231 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff68422bbc UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff683ecb29 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff6840a416 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff91c38508 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff91c14568 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff91c9b6f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff91c852e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff91c76f19 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff9dd725d4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007fff9dd62eda UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff806307782 ole32.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff805f26963 RPCRT4.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff805f8a036 RPCRT4.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff805ee8299 RPCRT4.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff8057a0e7f combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff80578e663 combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff80578e453 combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff8057a4526 combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff805752d7a combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff805745fed combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff8057616ac combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff805761f11 combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:014][526]LogOutputDevice: Error: [Callstack] 0x00007ff80574a79d combase.dll!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007ff80464681d USER32.dll!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007ff804646212 USER32.dll!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007fff9dd788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007ff7a8496980 UE4Editor.exe!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007ff7a84aa91c UE4Editor.exe!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007ff7a84aa9fa UE4Editor.exe!UnknownFunction []
+[2019.09.30-02.53.48:015][526]LogOutputDevice: Error: [Callstack] 0x00007ff7a84bb92c UE4Editor.exe!UnknownFunction []
+[2019.09.30-02.53.48:037][526]LogOutputDevice: Error: [Callstack] 0x00007ff7a84be60e UE4Editor.exe!UnknownFunction []
+[2019.09.30-02.53.48:037][526]LogOutputDevice: Error: [Callstack] 0x00007ff804c07bd4 KERNEL32.DLL!UnknownFunction []
+[2019.09.30-02.53.48:037][526]LogOutputDevice: Error: [Callstack] 0x00007ff80644cee1 ntdll.dll!UnknownFunction []
+[2019.09.30-02.53.48:037][526]LogOutputDevice: Error: 
+[2019.09.30-02.53.48:079][526]LogStats:                SubmitErrorReport -  0.000 s
